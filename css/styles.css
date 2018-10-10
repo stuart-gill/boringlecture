@@ -2,23 +2,26 @@
   font-size: 80px;
   font-family: cursive;
   color: #4545ff;
-  text-align: center;
+  text-align: left;
+  float: left;
+  width: 20%;
 }
 
 .smallerhead {
   font-size: 24px;
   font-family: monospace;
   color: #2222de;
-  text-align: center;
+  text-align: left;
+
+  width: 20%;
 }
 
 .imgstyle {
   display: block;
   #height: 300px;
   #width: 400px;
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 70%;
+  float: right;
 
 }
 
@@ -27,7 +30,7 @@
   font-family: fantasy;
 }
 
-.body {
+.body1 {
   font-size: 20px;
   #padding-right: 700px;
 }
@@ -62,11 +65,23 @@
 }
 
 .doge {
-  width: 25%;
+  width: 45%;
   float: left;
 }
 
 .doge2 {
   width: 250px;
   float: right;
+}
+
+#column1 {
+  margin-top: 165px;
+}
+
+#column2 {
+  margin-top: 165px;
+}
+
+#column3 {
+  margin-top: 170px;
 }
