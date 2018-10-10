@@ -1,0 +1,43 @@
+.head {
+  font-size: 80px;
+  font-family: cursive;
+  color: #4545ff;
+  text-align: center;
+}
+
+.smallerhead {
+  font-size: 24px;
+  font-family: monospace;
+  color: #2222de;
+  text-align: center;
+}
+
+.imgstyle {
+  height: 300px;
+  width: 400px;
+}
+
+.intro {
+  font-size: 36px;
+  font-family: fantasy;
+}
+
+.body {
+  font-size: 20px;
+  padding-right: 700px;
+}
+
+.boring {
+  font-size: 100px;
+  color: purple;
+  #text-shadow: 10px 10px;
+  text-decoration-line: underline;
+  text-decoration-style: double;
+  text-decoration-color: yellow;
+}
+
+.text1 {
+  font-size: 25px;
+  color: white;
+  background-color: black;
+}
