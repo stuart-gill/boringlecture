@@ -13,8 +13,13 @@
 }
 
 .imgstyle {
-  height: 300px;
-  width: 400px;
+  display: block;
+  #height: 300px;
+  #width: 400px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .intro {
@@ -24,7 +29,7 @@
 
 .body {
   font-size: 20px;
-  padding-right: 700px;
+  #padding-right: 700px;
 }
 
 .boring {
@@ -40,4 +45,28 @@
   font-size: 25px;
   color: white;
   background-color: black;
+}
+
+.sidebar {
+  padding-top: 25%;
+  height: 200%;
+  width: 5%;
+  float: left;
+  background-color: black;
+  color: white;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.doge {
+  width: 25%;
+  float: left;
+}
+
+.doge2 {
+  width: 250px;
+  float: right;
 }
